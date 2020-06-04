@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "**/components/**/*.js": "javascriptreact",
+    "**/containers/**/*.js": "javascriptreact",
+    "**/hoc/*.js": "javascriptreact"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
