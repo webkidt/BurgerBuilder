@@ -23,7 +23,7 @@ class ContactData extends Component {
           required: true,
         },
         valid: false,
-        toched: false,
+        touched: false,
       },
       street: {
         elementType: 'input',
@@ -36,7 +36,7 @@ class ContactData extends Component {
           required: true,
         },
         valid: false,
-        toched: false,
+        touched: false,
       },
       zipcode: {
         elementType: 'input',
@@ -51,7 +51,7 @@ class ContactData extends Component {
           maxLength: 5,
         },
         valid: false,
-        toched: false,
+        touched: false,
       },
       country: {
         elementType: 'input',
@@ -64,7 +64,7 @@ class ContactData extends Component {
           required: true,
         },
         valid: false,
-        toched: false,
+        touched: false,
       },
       email: {
         elementType: 'input',
@@ -77,7 +77,7 @@ class ContactData extends Component {
           required: true,
         },
         valid: false,
-        toched: false,
+        touched: false,
       },
       deliveryMethod: {
         elementType: 'select',
